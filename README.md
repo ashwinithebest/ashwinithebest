@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ashwinithebest
-- 👀 I’m interested in Application Devlopment
+- 👀 I’m interested in Application Development
 - 🌱 I’m currently learning C C++ and datastructures
 - 💞️ I’m looking to collaborate on webdevlopment or mobile app development
 - 📫 How to reach me ashwinipachor@gmail.com
