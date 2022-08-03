@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ashwinithebest
 - 👀 I’m interested in Application Development
-- 🌱 I’m currently learning ReactJS and React Native
-- 💞️ I’m looking to collaborate on webdevelopment or mobile app development
+- 🌱 I’m currently learning ReactJS, Angular and ASP.Net Core 
+- 💞️ I’m looking to collaborate on webdevelopment
 - 📫 How to reach me ashwinipachor@gmail.com
 
 <!---
